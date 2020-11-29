@@ -11,10 +11,13 @@ body {
 }
 
 .wrapper {
-	width: 960px;
+	width: 800px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
 
+img {
+	border: 5px solid #d2cece;
+}
 /* Write all remaining styles here */
